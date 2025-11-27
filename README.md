@@ -22,7 +22,7 @@ Este GitHub é mais do que um repositório de código — é um reflexo da minha
 
 🤝 Experiência com **gestão de equipes e processos**
 
-🔄 Em transição para atuar como **Desenvolvedor Web**, também com interesse em **QA (Quality Assurance)**
+🔄 Em transição para atuar como **Desenvolvedor Web (Front-end e Back-end)**, também com interesse em **QA (Quality Assurance)**
 
 📚 Sempre aprendendo e evoluindo
 
