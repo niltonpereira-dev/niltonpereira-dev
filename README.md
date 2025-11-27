@@ -43,7 +43,7 @@ Este GitHub é mais do que um repositório de código — é um reflexo da minha
 **Back-end:** Node.js  
 **Frameworks / Libs:** React.js, Cypress  
 **Versionamento:** Git e GitHub  
-**Ambientes de desenvolvimento:** VS Code, IntelliJ, NetBeans, Eclipse  
+**Ambientes de desenvolvimento:** VS Code, IntelliJ, Eclipse  
 **Sistemas Operacionais:** Linux e Windows
 
 <h2>📚 &nbsp;O que você vai encontrar aqui</h2>
