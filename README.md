@@ -7,13 +7,44 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
 
-Sou um profissional em transição da área comercial para a tecnologia. Atuei por vários anos como gerente comercial, desenvolvendo habilidades como liderança, comunicação eficaz, resolução de problemas e foco em resultados.
+Sou um profissional em transição da área comercial para a tecnologia. Atuei por vários anos como gerente comercial, desenvolvendo importantes soft skills, como liderança, comunicação clara, trabalho em equipe, resolução de problemas, pensamento analítico, organização, adaptabilidade e gestão de tempo.
 
 Hoje direciono toda essa experiência para minha trajetória na área de TI, estudando e construindo projetos que unem lógica, criatividade e boas práticas de desenvolvimento. Além do desenvolvimento, também estou aprofundando meus conhecimentos em QA (Quality Assurance), buscando garantir qualidade, confiabilidade e eficiência em cada aplicação que construo ou testo.
 
-Meu objetivo é evoluir continuamente, criar soluções funcionais e contribuir com projetos que gerem impacto real.
+Ao longo dessa caminhada, venho adquirindo diversas hard skills, como desenvolvimento Front-end (HTML, CSS, JavaScript), Back-end com Node.js, frameworks e libs como React.js e Cypress, além de versionamento com Git e GitHub. Também utilizo diferentes ambientes de desenvolvimento, como VS Code, IntelliJ, NetBeans e Eclipse, trabalhando tanto em Linux quanto em Windows.
 
+Meu objetivo é evoluir continuamente, criar soluções funcionais e contribuir com projetos que gerem impacto real.
 Este GitHub é mais do que um repositório de código — é um reflexo da minha jornada, do meu aprendizado constante e do meu compromisso em me tornar um profissional cada vez mais completo na área de tecnologia.
+
+🎯 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+
+💻 Estudando **HTML, CSS, JavaScript, Node.js e React**
+
+🤝 Experiência com **gestão de equipes e processos**
+
+🔄 Em transição para atuar como **Desenvolvedor Web**, também com interesse em **QA (Quality Assurance)**
+
+📚 Sempre aprendendo e evoluindo
+
+## 🧠 Soft Skills
+
+- Liderança
+- Comunicação clara
+- Trabalho em equipe
+- Resolução de problemas
+- Pensamento analítico
+- Organização
+- Adaptabilidade
+- Gestão de tempo
+
+## 🛠️ Hard Skills
+
+**Front-end:** HTML, CSS, JavaScript  
+**Back-end:** Node.js  
+**Frameworks / Libs:** React.js, Cypress  
+**Versionamento:** Git e GitHub  
+**Ambientes de desenvolvimento:** VS Code, IntelliJ, NetBeans, Eclipse  
+**Sistemas Operacionais:** Linux e Windows
 
 <h2>📚 &nbsp;O que você vai encontrar aqui</h2>
 
@@ -27,7 +58,7 @@ Se você quiser se conectar ou colaborar, fique à vontade para entrar em contat
 Estou sempre aberto a boas conversas e novas oportunidades.
 </p>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠 &nbsp;Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
